@@ -1,5 +1,7 @@
 
-
+/*****************
+--ADDING COMMENT -MICHAEL WATKIN'S DM CODE
+*****************/
 
 
 CREATE VOLATILE TABLE MW_DATES AS 
